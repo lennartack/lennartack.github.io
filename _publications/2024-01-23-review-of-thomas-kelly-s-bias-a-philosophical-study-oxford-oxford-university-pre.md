@@ -1,7 +1,7 @@
 ---
 title: "Review of Thomas Kelly’s Bias: A Philosophical Study. Oxford: Oxford University Press, 2022, x + 288 pp."
 collection: publications
-category: manuscripts
+category: book-reviews
 permalink: /publication/2024-01-23-review-of-thomas-kelly-s-bias-a-philosophical-study-oxford-oxford-university-pre
 date: 2024-01-23
 venue: 'Erasmus Journal for Philosophy and Economics'
