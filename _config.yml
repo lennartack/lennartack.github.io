@@ -86,12 +86,12 @@ author:
 publication_category:
   # books:
   #   title: 'Books'
+  preprints:
+    title: 'Preprints'
   manuscripts:
     title: 'Journal Articles'
   book-reviews:
     title: 'Book Reviews'
-  preprints:
-    title: 'Preprints'
   conferences:
     title: 'Presentations'
 
