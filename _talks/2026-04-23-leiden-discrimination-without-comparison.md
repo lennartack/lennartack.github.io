@@ -3,9 +3,9 @@ title: "Discrimination Without Comparison"
 collection: talks
 type: "Invited talk"
 permalink: /talks/2026-04-23-leiden-discrimination-without-comparison
-venue: "Leiden University"
+venue: "CPP/LTP Colloquium"
 date: 2026-04-23
-location: "Leiden, Netherlands"
+location: "Leiden University, Netherlands"
 slidesurl: "/files/leiden-april2026-discrimination.pdf"
 ---
 
