@@ -5,9 +5,9 @@ var addressPoints = [
     4.5259623
   ],
   [
-    "Discrimination Without Comparison<br />Leiden University; Leiden, Netherlands",
-    52.1594747,
-    4.4908843
+    "Discrimination Without Comparison<br />CPP/LTP Colloquium; Leiden University, Netherlands",
+    52.1686355,
+    4.4597028
   ],
   [
     "The Causal Framework Wars in Economics<br />Philosophy of Causal Inference in Economics; Jagiellonian University, Krak\u00f3w, Poland",
