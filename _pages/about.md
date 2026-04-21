@@ -13,7 +13,7 @@ I am a philosopher based at the Munich Center for Mathematical Philosophy (MCMP)
 
 I'm interested in almost everything, but try to restrict myself to philosophy of causation, Bayesian epistemology, and philosophy of economics.
 
-Much of my work concerns causation, both as a conceptual problem and as a methodological one. On the conceptual side, I'm into theories of actual causation based on causal models. On the methodological side, I research how causal relations are measured in economics and other social sciences. It becomes interesting when it's unclear what the correct causal relations to measure are -- such as with [inequality of opportunity]({% _publications/2022-10-16-causal-bias-in-measures-of-inequality-of-opportunity.md %}) and discrimination.
+Much of my work concerns causation, both as a conceptual problem and as a methodological one. On the conceptual side, I'm into theories of actual causation based on causal models. On the methodological side, I research how causal relations are measured in economics and other social sciences. It becomes interesting when it's unclear what the correct causal relations to measure are -- such as with [inequality of opportunity]({% link _publications/2022-10-16-causal-bias-in-measures-of-inequality-of-opportunity.md %}) and discrimination.
 
 In Bayesian epistemology, I work on puzzles involving self-locating beliefs such as the Sleeping Beauty problem. I also have a paper on infinite frequency principles and one on the two-envelope paradox. I designed a course about probability puzzles, based on my conviction that thinking about puzzles is the best way to learn and study Bayesian epistemology.
 
