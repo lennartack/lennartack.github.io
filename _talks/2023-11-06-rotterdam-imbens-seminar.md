@@ -3,7 +3,7 @@ title: "Potential Outcomes and Graphical Models: Comments to Imbens (2020)"
 collection: talks
 type: "Invited comments"
 permalink: /talks/2023-11-06-rotterdam-imbens-seminar
-venue: "Seminar with Guido Imbens (organised by the author)"
+venue: "EIPE Seminar"
 date: 2023-11-06
 location: "Erasmus University Rotterdam, Netherlands"
 slidesurl: "/files/rotterdam-november2023-imbens.pdf"
