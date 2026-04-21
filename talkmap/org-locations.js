@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Potential Outcomes and Graphical Models: Comments to Imbens (2020)<br />Seminar with Guido Imbens (organised by the author); Erasmus University Rotterdam, Netherlands",
+    "Potential Outcomes and Graphical Models: Comments to Imbens (2020)<br />EIPE Seminar; Erasmus University Rotterdam, Netherlands",
     51.9176312,
     4.5259623
   ],
