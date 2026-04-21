@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2026-03-04-four-formal-versions-of-the-two-envelope-paradox
 date: 2026-03-04
 status: "Forthcoming"
+excerpt: "A formal diagnosis of the Two-Envelope Paradox using modern probability theory, showing that paradoxical arguments fail for one of three precisely characterizable reasons."
 venue: 'Mind'
 paperurl: 'https://philsci-archive.pitt.edu/25509/1/two-envelopes-20250531.pdf'
 citation: 'Lennart B. Ackermans (2026). &quot;Four Formal Versions of The Two-Envelope Paradox&quot; <i>Mind</i>. doi:10.1093/mind/fzag014.'
