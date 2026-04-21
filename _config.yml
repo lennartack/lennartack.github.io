@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Lennart Ackermans"
+title                    : "Lennart Ackermans"
 title_separator          : "-"
 name                     : &name "Lenart Ackermans"
 description              : &description "Lennart's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "lennartack/lennartack.github.io"
 author:
   # Biographic information
   avatar           : "lennart.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Lennart Ackermans"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow at the MCMP, LMU"
   location         : "Munich"
