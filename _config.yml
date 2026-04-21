@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'
   book-reviews:
     title: 'Book Reviews'
+  preprints:
+    title: 'Preprints'
   conferences:
     title: 'Presentations'
 
