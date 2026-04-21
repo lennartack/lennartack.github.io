@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2025-04-02-a-double-halfer-embarrassment-response-to-pust
 date: 2025-04-02
 status: "Preprint"
+excerpt: "Responds to Pust's defence of double-halfing against Titelbaum's challenge, arguing that double halfers face a distinctive embarrassment about which evidence counts as admissible for direct inference."
 venue: 'PhilSci-Archive'
 paperurl: 'https://philsci-archive.pitt.edu/24995/'
 citation: 'Lennart B. Ackermans (2025). &quot;A double-halfer embarrassment: Response to Pust&quot;. PhilSci-Archive preprint.'

@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2026-01-17-a-nightmare-for-lewisian-halfers
 date: 2026-01-17
 status: "Preprint"
+excerpt: "If Sleeping Beauty dreams, even principles accepted by Lewisian halfers force her credence in heads below 1/2 on waking — a pressure towards the thirder solution from within halfer commitments."
 venue: 'PhilSci-Archive'
 paperurl: 'https://philsci-archive.pitt.edu/27940/'
 citation: 'Lennart B. Ackermans (2026). &quot;A Nightmare for Lewisian Halfers&quot;. PhilSci-Archive preprint.'

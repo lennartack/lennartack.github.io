@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2022-10-16-causal-bias-in-measures-of-inequality-of-opportunity
 date: 2022-10-16
+excerpt: "Argues that popular country-level measures of inequality of opportunity are potentially biased, because they use correlational data to estimate what are really causal quantities."
 venue: 'Synthese'
 paperurl: 'https://doi.org/10.1007/s11229-022-03899-1'
 citation: 'Lennart B. Ackermans (2022). &quot;Causal bias in measures of inequality of opportunity&quot; <i>Synthese</i>, 200(6).'

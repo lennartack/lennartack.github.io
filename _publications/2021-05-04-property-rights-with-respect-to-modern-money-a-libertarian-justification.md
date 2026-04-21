@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-05-04-property-rights-with-respect-to-modern-money-a-libertarian-justification
 date: 2021-05-04
+excerpt: "A libertarian justification of property rights in modern (credit and fiat) money, grounded in the self-ownership principle rather than the Lockean appropriation of natural resources."
 venue: 'Journal of Social Ontology'
 paperurl: 'https://doi.org/10.1515/jso-2020-0031'
 citation: 'Lennart B. Ackermans (2021). &quot;Property Rights with Respect to Modern Money: A Libertarian Justification&quot; <i>Journal of Social Ontology</i>, 6(2), pp. 315-349.'
