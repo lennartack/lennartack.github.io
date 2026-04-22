@@ -3,7 +3,7 @@ title: "Four Formal Versions of The Two-Envelope Paradox"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-03-04-four-formal-versions-of-the-two-envelope-paradox
-date: 2026-03-04
+date: 2026-05-01
 status: "Forthcoming"
 excerpt: "A formal diagnosis of the Two-Envelope Paradox using modern probability theory, showing that paradoxical arguments fail for one of three precisely characterizable reasons."
 venue: 'Mind'
