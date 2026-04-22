@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a philosopher based at the Munich Center for Mathematical Philosophy (MCMP), where I hold a Humboldt Research Fellowship. I obtained my PhD from the Erasmus Institute for Philosophy and Economics (EIPE) at Erasmus University Rotterdam in 2023, under the supervision of Christopher Clarke, Conrad Heilmann, and Jack Vromen. Before turning to philosophy, I studied mathematics at Leiden University. In my free time, I enjoy singing, programming, and operating my server.
+I am a philosopher based at the Munich Center for Mathematical Philosophy (MCMP), where I hold a Humboldt Research Fellowship. I obtained my PhD from the Erasmus Institute for Philosophy and Economics (EIPE) at Erasmus University Rotterdam in 2023, under the supervision of Christopher Clarke, Conrad Heilmann, and Jack Vromen. Before turning to philosophy, I studied mathematics at Leiden University. In my free time, I enjoy singing, coding, and operating my server.
 
 ## Research interests
 
