@@ -17,6 +17,10 @@ Much of my work concerns causation, both as a conceptual problem and as a method
 
 In Bayesian epistemology, I work on puzzles involving self-locating beliefs such as the Sleeping Beauty problem. I also have a paper on [infinite frequency principles]({% link _publications/2022-04-01-infinite-frequency-principles-of-direct-inference.md %}) and one on the [two-envelope paradox]({% link _publications/2026-03-04-four-formal-versions-of-the-two-envelope-paradox.md %}). I designed a course about [probability puzzles]({% link _teaching/2025-fall-probability-puzzles-bayesian-epistemology.md %}), based on my conviction that thinking about puzzles is the best way to learn and study Bayesian epistemology.
 
+## The Journal of Mathematical Philosophy
+
+In 2026, I co-founded a new open access journal with [Jürgen Landes](https://jlandes.wordpress.com/), the [Journal of Mathematical Philosophy](https://mathematicalphilosophy.org/mathphil). We accept submissions in most areas of formal philosophy.
+
 ## Project: The measurement of actual causation
 
 I have submitted a research proposal to the Deutsche Forschungsgemeinschaft (DFG) titled "The Measurement of Actual Causation". The project aims to lay the foundations for a theory of measuring prevalences (and other statistics) of actual-causal relations. While the methodological literature on causal measurement has focused almost exclusively on type causation — the relationship between variables or event types — many socially important questions concern actual causation, the relation between particular events that have already occurred. Measuring the prevalence of discrimination or evaluating the causal effectiveness of a past government program, I argue, are actual-causal measurement problems. The project addresses three interconnected problems: identifying the contexts in which actual causation is the appropriate target of measurement, developing model aptness conditions that make theories of actual causation sufficiently stable to support measurement, and analysing how existing causal inference methods can be adapted to estimate actual-causal quantities.

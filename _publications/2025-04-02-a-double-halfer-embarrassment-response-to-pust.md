@@ -7,7 +7,7 @@ date: 2026-06-02
 excerpt: "Responds to Pust's defence of double-halfing against Titelbaum's challenge, arguing that double halfers face a distinctive embarrassment about which evidence counts as admissible for direct inference."
 venue: 'Analytic Philosophy'
 paperurl: 'https://doi.org/10.1111/phib.70016'
-citation: 'Lennart B. Ackermans (2025). &quot;A double-halfer embarrassment: Response to Pust&quot;. <i>Analytic Philosophy</i>.'
+citation: 'Lennart B. Ackermans (2026). &quot;A double-halfer embarrassment: Response to Pust&quot;. <i>Analytic Philosophy</i>.'
 ---
 
 Titelbaum (2012) introduced a variant of the Sleeping Beauty problem in which a coin is tossed on both Monday and Tuesday, with the Tuesday toss not affecting Beauty's condition. Titelbaum argues that double halfers are committed to the embarrassing position that Beauty's credence that today's coin toss lands heads is greater than 1/2. Pust (2023) agrees with the result, but argues that it is not a distinctive embarrassment for halfers. I argue that thirders need not be embarrassed. Double halfers, on the other hand, must hold that Beauty's evidence is admissible for direct inference with respect to Monday's coin toss, but not with respect to today's coin toss. This is embarrassing because (1) a plausible argument exists for the opposite position, and (2) the position conflicts with the central motivation guiding double halfism.
