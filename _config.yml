@@ -238,6 +238,11 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # Course files that should not show up in search engines (see also robots.txt)
+  - scope:
+      path: "files/*discrimination-inequality*"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""

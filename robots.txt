@@ -1,0 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: *
+Disallow: /files/syllabus-discrimination-inequality.pdf
+Disallow: /files/discrimination-inequality-
+Sitemap: {{ site.url }}/sitemap.xml
