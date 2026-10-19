@@ -42,7 +42,8 @@ Measuring inequality and discrimination is a difficult endeavour in which each m
 
 ### Week 2 (19.10.2026): Causal Graphs
 
-Coming soon.
+[Slides](/files/discrimination-inequality-week2-slides.pdf)
 
+### Week 3 (26.10.2026): Discrimination I
 
 Slides for later weeks will be added here as the course progresses.
