@@ -13,7 +13,7 @@ sitemap: false
 
 A seminar on the conceptual and methodological challenges involved in measuring inequality and discrimination across the social sciences.
 
-[Download syllabus](/files/syllabus-discrimination-inequality.pdf) (updated weekly)
+[Download syllabus](/files/syllabus-discrimination-inequality-20261019.pdf) (updated 19-10-2026)
 
 ## Description
 
