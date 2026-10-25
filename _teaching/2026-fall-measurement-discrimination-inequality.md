@@ -6,7 +6,7 @@ permalink: /teaching/2026-fall-measurement-discrimination-inequality
 venue: "Ludwig Maximilian University of Munich"
 date: 2026-10-12
 location: "Munich, Germany"
-syllabusurl: "/files/syllabus-discrimination-inequality.pdf"
+syllabusurl: "/files/syllabus-discrimination-inequality-20261025.pdf"
 noindex: true
 sitemap: false
 ---
