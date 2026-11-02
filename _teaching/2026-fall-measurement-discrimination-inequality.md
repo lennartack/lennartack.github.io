@@ -46,4 +46,10 @@ Measuring inequality and discrimination is a difficult endeavour in which each m
 
 ### Week 3 (26.10.2026): Discrimination I
 
+See the Week 2 and Week 4 slides.
+
+### Week 4 (02.11.2026): Discrimination II
+
+[Slides](/files/discrimination-inequality-week4-slides.pdf)
+
 Slides for later weeks will be added here as the course progresses.
