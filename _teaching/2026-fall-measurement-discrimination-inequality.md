@@ -52,4 +52,8 @@ See the Week 2 and Week 4 slides.
 
 [Slides](/files/discrimination-inequality-week4-slides.pdf)
 
+### Week 5 (09.11.2026): Equality of Opportunity
+
+[Slides](/files/discrimination-inequality-week5-slides.pdf)
+
 Slides for later weeks will be added here as the course progresses.
