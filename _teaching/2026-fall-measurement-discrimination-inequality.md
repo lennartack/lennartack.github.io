@@ -6,14 +6,14 @@ permalink: /teaching/2026-fall-measurement-discrimination-inequality
 venue: "Ludwig Maximilian University of Munich"
 date: 2026-10-12
 location: "Munich, Germany"
-syllabusurl: "/files/syllabus-discrimination-inequality-20261107.pdf"
+syllabusurl: "/files/syllabus-discrimination-inequality-20261116.pdf"
 noindex: true
 sitemap: false
 ---
 
 A seminar on the conceptual and methodological challenges involved in measuring inequality and discrimination across the social sciences.
 
-[Download syllabus](/files/syllabus-discrimination-inequality-20261107.pdf) (updated 07-11-2026)
+[Download syllabus](/files/syllabus-discrimination-inequality-20261116.pdf) (updated 16-11-2026)
 
 ## Description
 
@@ -55,5 +55,9 @@ See the Week 2 and Week 4 slides.
 ### Week 5 (09.11.2026): Equality of Opportunity
 
 [Slides](/files/discrimination-inequality-week5-slides.pdf)
+
+### Week 6 (16.11.2026): Equality of Opportunity
+
+[Slides](/files/discrimination-inequality-week6-slides.pdf)
 
 Slides for later weeks will be added here as the course progresses.
