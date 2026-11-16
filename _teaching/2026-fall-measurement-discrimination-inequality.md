@@ -56,7 +56,7 @@ See the Week 2 and Week 4 slides.
 
 [Slides](/files/discrimination-inequality-week5-slides.pdf)
 
-### Week 6 (16.11.2026): Equality of Opportunity
+### Week 6 (16.11.2026): Measuring Inequality of Opportunity
 
 [Slides](/files/discrimination-inequality-week6-slides.pdf)
 
